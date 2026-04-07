@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Biotech for Normal People</title>
+    <description>AI-generated science storytelling. We take the most important ideas in biotech — from gene editing to GLP-1s to AI drug discovery — and explain them through story, analogy, and conversation. No PhD required.</description>
+    <language>en</language>
+    <link>https://biotechfornormalpeople.com</link>
+    <copyright>© 2026 Ryan Burke</copyright>
+    <itunes:author>Ryan Burke</itunes:author>
+    <itunes:summary>AI-generated science storytelling. We take the most important ideas in biotech — from gene editing to GLP-1s to AI drug discovery — and explain them through story, analogy, and conversation. No PhD required.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Ryan Burke</itunes:name>
+      <itunes:email>rburke4747@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category>Science</itunes:category>
+    <itunes:image href="https://pub-ae2a28590eca4c09a323db4be16f1b6a.r2.dev/Biotech_for_normal_people.png"/>
+    <image>
+      <url>https://pub-ae2a28590eca4c09a323db4be16f1b6a.r2.dev/Biotech_for_normal_people.png</url>
+      <title>Biotech for Normal People</title>
+      <link>https://biotechfornormalpeople.com</link>
+    </image>
+    <lastBuildDate>Tue, 07 Apr 2026 04:01:54 GMT</lastBuildDate>
+    <item>
+      <title>Episode 01: GLP-1s — The Drug That Changed Everything</title>
+      <guid isPermaLink="false">https://pub-ae2a28590eca4c09a323db4be16f1b6a.r2.dev/episodes/ep001-glp1s.mp3</guid>
+      <pubDate>Tue, 07 Apr 2026 04:01:54 GMT</pubDate>
+      <description>The complete story of GLP-1 receptor agonists: from a Gila monster’s venom and incretin biology to Ozempic, tirzepatide, and the future of metabolic medicine. We explain what peptides are, how these drugs work in the body, the difference between GLP-1 and GIP, why dual agonists outperform single ones, what the cardiovascular trial data actually shows, and where triple agonists are headed.</description>
+      <content:encoded>&lt;p&gt;The complete story of GLP-1 receptor agonists: from a Gila monster’s venom and incretin biology to Ozempic, tirzepatide, and the future of metabolic medicine. We explain what peptides are, how these drugs work in the body, the difference between GLP-1 and GIP, why dual agonists outperform single ones, what the cardiovascular trial data actually shows, and where triple agonists are headed.&lt;/p&gt;
+
+&lt;h3&gt;Source Papers&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.molmet.2019.09.010&quot;&gt;Muller et al. (2019) — Glucagon-like peptide 1 (GLP-1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1186/s12933-022-01604-7&quot;&gt;Nauck &amp; D’Alessio (2022) — Tirzepatide dual GIP/GLP-1 agonist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.3389/fendo.2024.1431292&quot;&gt;Liu (2024) — Mechanisms of GLP-1 and dual GIP/GLP-1 agonists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/S2213-8587(19)30249-9&quot;&gt;Kristensen et al. (2019) — CV/mortality/kidney outcomes meta-analysis (56,004 patients)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1089/dia.2024.0328&quot;&gt;Snell-Bergeon et al. (2025) — Off-label semaglutide/tirzepatide in Type 1 diabetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;All sources retrieved from PubMed (National Library of Medicine).&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;🎙️ &lt;strong&gt;Biotech for Normal People&lt;/strong&gt; — AI-generated science storytelling.&lt;br&gt;
+No PhD required. New episodes weekly.&lt;/p&gt;
+</content:encoded>
+      <enclosure url="https://pub-ae2a28590eca4c09a323db4be16f1b6a.r2.dev/episodes/ep001-glp1s.mp3" length="20672387" type="audio/mpeg"/>
+      <itunes:title>Episode 01: GLP-1s — The Drug That Changed Everything</itunes:title>
+      <itunes:summary>The complete story of GLP-1 receptor agonists: from a Gila monster’s venom and incretin biology to Ozempic, tirzepatide, and the future of metabolic medicine. We explain what peptides are, how these drugs work in the body, the difference between GLP-1 and GIP, why dual agonists outperform single ones, what the cardiovascular trial data actually shows, and where triple agonists are headed.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:keywords>GLP-1, Ozempic, semaglutide, tirzepatide, metabolic medicine, peptides, biotech, obesity, diabetes</itunes:keywords>
+    </item>
+  </channel>
+</rss>
